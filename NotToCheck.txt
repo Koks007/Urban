@@ -1,1 +1,1 @@
-Steam, Lenovo, LGHUB, Windows, SteamLibrary, Program Files, Program Files (x86), assets, NVIDIA, EPIC GAMES
+Steam,Lenovo,LGHUB,Windows,SteamLibrary,Program Files,Program Files (x86),assets,NVIDIA,EPIC GAMES
